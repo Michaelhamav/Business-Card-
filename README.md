@@ -1,3 +1,3 @@
 # Business Card
 
-Creating a business card with html and styling with css. added bio and job description
+Creating a business card with html and styling with css. added bio and job description.
